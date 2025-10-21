@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Banula Peiris
 
 🎓 Undergraduate at the University of Moratuwa  
-💻 Passionate about Web Development | IoT | Automation  
-🚀 Currently building: Member Tracking System for Rotaract Club  
+💻 Passionate about Full Stack Development | IoT | Automation  
+🚀 Currently working on: **Frontend (React, Express)** & **Backend (Node.js, MongoDB)**  
 
 ---
 
 ### 🧩 Tech Stack
-💻 Languages: JavaScript, Python, C++, SQL  
-⚙️ Frameworks: React, Node.js, Express  
-🛠️ Tools: Git, VS Code, Docker, Arduino  
+💻 **Languages:** C, Python, Java, JavaScript, HTML  
+⚙️ **Frontend:** React, Express.js  
+🗄️ **Backend:** Node.js, MongoDB  
+🧰 **Tools:** Git, VS Code, Postman, Figma  
 
 ---
 
@@ -20,9 +21,9 @@
 ---
 
 ### 🌱 What I’m Learning
-- Advanced SQL Queries  
-- Backend Optimization  
-- Embedded Systems Communication  
+- Advanced React techniques (hooks, context, performance)  
+- API development with Express & MongoDB  
+- UI/UX best practices  
 
 ---
 
@@ -30,3 +31,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-website-green)](https://yourwebsite.com)
 [![Email](https://img.shields.io/badge/Email-contact@you.com-red)](mailto:contact@you.com)
+
+---
+
+⭐ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
