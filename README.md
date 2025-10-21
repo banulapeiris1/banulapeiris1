@@ -15,8 +15,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Banula's GitHub stats](https://github-readme-stats.vercel.app/api?username=banulapeiris&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banulapeiris&layout=compact&theme=tokyonight)
+![Banula's GitHub stats](https://github-readme-stats.vercel.app/api?username=banulapeiris1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banulapeiris1&layout=compact&theme=tokyonight)
 
 ---
 
