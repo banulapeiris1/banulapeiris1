@@ -28,9 +28,8 @@
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-green)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-contact@you.com-red)](mailto:contact@you.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/banulapeiris)
+[![Email](https://img.shields.io/badge/Email-contact@you.com-red)](mailto:banulapeiris1uni@gmail.com)
 
 ---
 
